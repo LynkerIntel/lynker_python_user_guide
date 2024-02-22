@@ -10,10 +10,8 @@ pagetoc = true
 sidebar-width = "250px"
 
 [output.html]
-default-theme = "ayu"
 git-repository-url = ""
-additional-css = ["theme/pagetoc.css"]
-additional-js = ["theme/pagetoc.js"]
+
 
 [output.html.fold]
 enable = false
@@ -25,6 +23,4 @@ editable = true
 [output.html.print]
 enable = false
 
-[output.theme-ace]
-theme-white = "xcode"
-theme-dark = "monokai"
+
