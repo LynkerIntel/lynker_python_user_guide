@@ -1,0 +1,1 @@
+Example directory structure proposed by DR to store templates based on project type. i.e. dashboard, command line utility, model setup, local geospatial data download. Such templates could include a requirements.txt and brief docs related to the project type (common issues, author of projects, etc.).
