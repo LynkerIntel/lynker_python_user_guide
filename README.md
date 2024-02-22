@@ -1,13 +1,15 @@
-# mdbook-template
 
-Yield a mdbook demo with [mdbook-theme](https://github.com/zjp-CN/mdbook-theme)
-and a yml file for github action automation and page publication.
+# Lynker Python User Guide
+A repo for documentation and resources on Python programming. 
 
-You just need to creat md files in `src/` dir, then add the filenames in `SUMMARY.md`,
-and everything is ready to go.
+## Contents
+- `development_guide/` 
+    - mdbook w/ python guidelines, deployed on push to: URL
+- `repo_templates/` 
+    - Templates based on project type. 
 
-But for the first time after pushing to github, set the source of github page to 
-`gh-pages` branch and `/(root)` in `Settings`.
 
-Have fun with mdbook!
+## Contributing to the Guide
+This is a work in progress. To add pages to the development guide create a file (i.e. `best_practices.md`) and add it to `development_guide/`, then include the filename in `SUMMARY.md`. 
+
 
