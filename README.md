@@ -4,7 +4,7 @@ A repo for documentation and resources on Python programming.
 
 ## Contents
 - `development_guide/` 
-    - mdbook w/ python guidelines, deployed on push to: URL
+    - [mdbook](https://rust-lang.github.io/mdBook/index.html) w/ guidelines, deployed to gh-pages on push: URL
 - `repo_templates/` 
     - Templates based on project type. 
 
